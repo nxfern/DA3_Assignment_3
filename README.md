@@ -1,1 +1,3 @@
-# DA3_Assignment_3
+# DA3 Assignment 3
+
+Nicolas Fernandez and Arbash Malik
